@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Solar-System-Website/static/js/main.1f3b3700.chunk.js",
+    "main.js.map": "/Solar-System-Website/static/js/main.1f3b3700.chunk.js.map",
+    "runtime-main.js": "/Solar-System-Website/static/js/runtime-main.8992ec38.js",
+    "runtime-main.js.map": "/Solar-System-Website/static/js/runtime-main.8992ec38.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Solar-System-Website/static/css/2.ec02d681.chunk.css",
+    "static/js/2.ae9eca2d.chunk.js": "/Solar-System-Website/static/js/2.ae9eca2d.chunk.js",
+    "static/js/2.ae9eca2d.chunk.js.map": "/Solar-System-Website/static/js/2.ae9eca2d.chunk.js.map",
+    "index.html": "/Solar-System-Website/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Solar-System-Website/static/css/2.ec02d681.chunk.css.map",
+    "static/js/2.ae9eca2d.chunk.js.LICENSE.txt": "/Solar-System-Website/static/js/2.ae9eca2d.chunk.js.LICENSE.txt",
+    "static/media/CalcBack.f66701ee.svg": "/Solar-System-Website/static/media/CalcBack.f66701ee.svg",
+    "static/media/CardPhoto1.4bffa352.svg": "/Solar-System-Website/static/media/CardPhoto1.4bffa352.svg",
+    "static/media/CardPhoto2.2f5000b2.svg": "/Solar-System-Website/static/media/CardPhoto2.2f5000b2.svg",
+    "static/media/CardPhoto3.c1a864c5.svg": "/Solar-System-Website/static/media/CardPhoto3.c1a864c5.svg",
+    "static/media/ContactBack.e2372a26.svg": "/Solar-System-Website/static/media/ContactBack.e2372a26.svg",
+    "static/media/HomeBack.014e5eae.png": "/Solar-System-Website/static/media/HomeBack.014e5eae.png",
+    "static/media/HomeInfoWrapperBack.187a525e.svg": "/Solar-System-Website/static/media/HomeInfoWrapperBack.187a525e.svg",
+    "static/media/Logo.2d12832e.png": "/Solar-System-Website/static/media/Logo.2d12832e.png",
+    "static/media/Ocean.5e59da0c.svg": "/Solar-System-Website/static/media/Ocean.5e59da0c.svg",
+    "static/media/ServicePhoto1.ba0e79e0.png": "/Solar-System-Website/static/media/ServicePhoto1.ba0e79e0.png",
+    "static/media/ServicePhoto2.27da619e.png": "/Solar-System-Website/static/media/ServicePhoto2.27da619e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8992ec38.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.ae9eca2d.chunk.js",
+    "static/js/main.1f3b3700.chunk.js"
+  ]
+}
