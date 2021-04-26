@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from '../../../assets/Logo.png';
+import Logo from '../../../assets/Logo.webp';
 import { HashLink } from 'react-router-hash-link';
 import HamburgerWrapper from '../../Organisms/HamburgerWrapper/HamburgerWrapper';
 import AppContext from '../../../context';
@@ -23,10 +23,7 @@ const Navbar = () => {
   window.addEventListener('scroll', NavBarResize);
 
   return (
-    <Container
-      navbarresize={navBar ? 'true' : null}
-      hamburger={hamburgerOpen ? 'true' : null}
-    >
+    <Container navbarresize={navBar ? 'true' : null} hamburger={hamburgerOpen ? 'true' : null}>
       <LogoContainer navbarresize={navBar ? 'true' : null}>
         <LogoIcon src={Logo} />
       </LogoContainer>

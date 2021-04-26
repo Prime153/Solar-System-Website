@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import ContactBack from '../../assets/ContactBack.svg';
+import ContactBack from '../../assets/ContactBack.webp';
 
 export const Container = styled.div`
   min-height: 100vh;

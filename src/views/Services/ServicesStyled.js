@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Ocean from '../../assets/Ocean.svg';
+import Ocean from '../../assets/Ocean.webp';
 
 export const Container = styled.div`
   min-height: 100vh;

@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import HomeBack from '../../assets/HomeBack.png';
-import HomeInfoWrapperBack from '../../assets/HomeInfoWrapperBack.svg';
+import HomeBack from '../../assets/HomeBack.webp';
+import HomeInfoWrapperBack from '../../assets/HomeInfoWrapperBack.webp';
 
 export const HomeContainer = styled.div`
   width: 100%;
@@ -9,6 +9,7 @@ export const HomeContainer = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100%;
+
   display: flex;
   justify-content: center;
   align-items: center;
