@@ -8,8 +8,7 @@ export const HomeContainer = styled.div`
   background-image: url(${HomeBack});
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 100%;
-
+  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;

@@ -9,7 +9,7 @@ export const Container = styled.div`
 export const OceanContainer = styled(Container)`
   background-image: url(${Ocean});
   background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
   display: flex;
   justify-content: start;
   align-items: center;
