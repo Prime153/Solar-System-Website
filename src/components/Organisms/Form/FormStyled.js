@@ -50,4 +50,8 @@ export const ValidationText = styled.div`
   margin-top: -5px;
   font-family: ${({ theme }) => theme.fontFamily.Roboto};
   color: red;
+
+  @media (max-width: 400px) {
+    font-size: 11px;
+  }
 `;

@@ -17,7 +17,7 @@ export const Textarea = styled.textarea`
   height: 260px;
 
   @media (max-height: 658px) {
-    height: 200px;
+    height: 190px;
   }
 
   @media (max-width: 650px) {
