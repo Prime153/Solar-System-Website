@@ -7,15 +7,12 @@ export const Container = styled.div`
   grid-gap: 20px;
   justify-items: center;
   padding: 20px;
-  margin: auto;
+  margin: 20px auto;
   background-color: white;
   text-align: center;
 
   @media (max-width: 650px) {
     width: 90%;
-  }
-  @media (max-height: 658px) {
-    height: 90%;
   }
 `;
 
@@ -26,7 +23,6 @@ export const Text = styled.span`
   font-weight: 500;
   align-self: center;
   text-align: center;
-  padding: 10px 0;
 
   @media (max-width: 546px) {
     font-size: 13px;
@@ -51,7 +47,7 @@ export const ValidationText = styled.div`
   font-family: ${({ theme }) => theme.fontFamily.Roboto};
   color: red;
 
-  @media (max-width: 400px) {
-    font-size: 11px;
+  @media (max-width: 500px) {
+    font-size: 12px;
   }
 `;
