@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Solar-System-Website/static/js/main.cbd50957.chunk.js",
-    "main.js.map": "/Solar-System-Website/static/js/main.cbd50957.chunk.js.map",
+    "main.js": "/Solar-System-Website/static/js/main.c6e67565.chunk.js",
+    "main.js.map": "/Solar-System-Website/static/js/main.c6e67565.chunk.js.map",
     "runtime-main.js": "/Solar-System-Website/static/js/runtime-main.8992ec38.js",
     "runtime-main.js.map": "/Solar-System-Website/static/js/runtime-main.8992ec38.js.map",
     "static/css/2.ec02d681.chunk.css": "/Solar-System-Website/static/css/2.ec02d681.chunk.css",
-    "static/js/2.de886b81.chunk.js": "/Solar-System-Website/static/js/2.de886b81.chunk.js",
-    "static/js/2.de886b81.chunk.js.map": "/Solar-System-Website/static/js/2.de886b81.chunk.js.map",
+    "static/js/2.44fe8cee.chunk.js": "/Solar-System-Website/static/js/2.44fe8cee.chunk.js",
+    "static/js/2.44fe8cee.chunk.js.map": "/Solar-System-Website/static/js/2.44fe8cee.chunk.js.map",
     "index.html": "/Solar-System-Website/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/Solar-System-Website/static/css/2.ec02d681.chunk.css.map",
-    "static/js/2.de886b81.chunk.js.LICENSE.txt": "/Solar-System-Website/static/js/2.de886b81.chunk.js.LICENSE.txt",
+    "static/js/2.44fe8cee.chunk.js.LICENSE.txt": "/Solar-System-Website/static/js/2.44fe8cee.chunk.js.LICENSE.txt",
     "static/media/CalcBack.f66701ee.svg": "/Solar-System-Website/static/media/CalcBack.f66701ee.svg",
     "static/media/CardPhoto.d137a35e.webp": "/Solar-System-Website/static/media/CardPhoto.d137a35e.webp",
     "static/media/CardPhoto2.e6ba5cb6.webp": "/Solar-System-Website/static/media/CardPhoto2.e6ba5cb6.webp",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.8992ec38.js",
     "static/css/2.ec02d681.chunk.css",
-    "static/js/2.de886b81.chunk.js",
-    "static/js/main.cbd50957.chunk.js"
+    "static/js/2.44fe8cee.chunk.js",
+    "static/js/main.c6e67565.chunk.js"
   ]
 }
