@@ -40,16 +40,16 @@ const Navbar = () => {
           navbarresize={navBar ? 'true' : null}
           onClick={() => changeHamburgerOpen(true)}
         />
-        <LinkChild as={HashLink} smooth to="/#">
+        <LinkChild as={HashLink} smooth to="#">
           Home
         </LinkChild>
-        <LinkChild as={HashLink} smooth to="/#services">
+        <LinkChild as={HashLink} smooth to="#services">
           Services
         </LinkChild>
-        <LinkChild as={HashLink} smooth to="/#calculator">
+        <LinkChild as={HashLink} smooth to="#calculator">
           Calculator
         </LinkChild>
-        <LinkChild as={HashLink} smooth to="/#contact">
+        <LinkChild as={HashLink} smooth to="#contact">
           Contact
         </LinkChild>
       </LinkContainer>
