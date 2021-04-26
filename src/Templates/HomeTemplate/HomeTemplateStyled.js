@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import HomeBack from '../../assets/HomeBack3.webp';
+import HomeBack from '../../assets/HomeBack.webp';
 import HomeInfoWrapperBack from '../../assets/HomeInfoWrapperBack.webp';
 
 export const HomeContainer = styled.div`
