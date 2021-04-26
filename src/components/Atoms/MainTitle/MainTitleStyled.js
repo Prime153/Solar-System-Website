@@ -5,7 +5,10 @@ export const Container = styled.div`
   flex-flow: column nowrap;
   font-family: ${({ theme }) => theme.fontFamily.Oswald};
   font-weight: 500;
+  width: 100%;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const UpperText = styled.span`
