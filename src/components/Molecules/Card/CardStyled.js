@@ -30,12 +30,15 @@ export const PictureContainer = styled.div`
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   background-image: url(${({ photo }) => photo});
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
 `;
 
 export const TextContainer = styled.div`
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  padding: 30px;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
   text-align: center;
   color: white;
   font-size: ${({ theme }) => theme.fontSize.s};
