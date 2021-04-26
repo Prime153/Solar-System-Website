@@ -30,7 +30,7 @@ export const PictureContainer = styled.div`
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   background-image: url(${({ photo }) => photo});
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: center;
 `;
 
 export const TextContainer = styled.div`

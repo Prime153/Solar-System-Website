@@ -14,6 +14,9 @@ export const Container = styled.div`
   @media (max-width: 650px) {
     width: 90%;
   }
+  @media (max-height: 658px) {
+    height: 90%;
+  }
 `;
 
 export const Text = styled.span`

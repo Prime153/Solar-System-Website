@@ -16,6 +16,10 @@ export const Textarea = styled.textarea`
   width: 100%;
   height: 260px;
 
+  @media (max-height: 658px) {
+    height: 200px;
+  }
+
   @media (max-width: 650px) {
     font-size: ${({ theme }) => theme.fontSize.xs};
   }
