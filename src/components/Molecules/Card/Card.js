@@ -5,7 +5,7 @@ import { Container, HeadingContainer, PictureContainer, TextContainer } from './
 
 const Card = ({ id, content, photo, headingText, headingText2 }) => (
   <>
-    <Container widther={id}>
+    <Container widther={id} data-aos="fade-up">
       <HeadingContainer>
         <HeadingTwoFaces widther={id} firstW={headingText} secondW={headingText2} />
       </HeadingContainer>
