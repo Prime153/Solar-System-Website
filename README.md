@@ -1,5 +1,12 @@
 # Solar System 
-##### This is my first project in React. This is one page scroll website using React Router hash links. I added smooth scroll library for cleaner surfing. In calculator page, you can calculate how many kW you need for your monthly energy consumption. AOS library was used for scroll animations.
+##### My first React project. This is a website for a solar energy company. The
+website was created in the "One Page Scroll Site" convention. The React
+Router Hash Links library was used here to support smooth traffic between
+subpages. In the "Calculator" subpage, I implemented a simple calculator that
+calculates how many kW should be installed to reduce the monthly cost of
+electricity given by the user. AOS Animations Library was used for the scrolling
+animation.
+
 
 ###  They may occur some problems with safari browser, it's caused by React Router hash links
 [![Solar System](https://i.ibb.co/Lk4Ft5Q/solar-system.jpg "Solar System")](https://prime153.github.io/Solar-System-Website/ "Solar System")
