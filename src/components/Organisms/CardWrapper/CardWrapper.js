@@ -1,8 +1,8 @@
 import React from 'react';
 import Card from '../../Molecules/Card/Card';
-import CardPhoto1 from '../../../assets/CardPhoto.webp';
-import CardPhoto2 from '../../../assets/CardPhoto2.webp';
-import CardPhoto3 from '../../../assets/CardPhoto3.webp';
+import CardPhoto1 from '../../../assets/CardPhoto.jpg';
+import CardPhoto2 from '../../../assets/CardPhoto2.jpg';
+import CardPhoto3 from '../../../assets/CardPhoto3.jpg';
 import { Container } from './CardWrapperStyled';
 
 const CardWrapper = () => {

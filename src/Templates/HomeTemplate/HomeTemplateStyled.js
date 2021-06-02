@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import HomeBack from '../../assets/HomeBack.webp';
-import HomeInfoWrapperBack from '../../assets/HomeInfoWrapperBack.webp';
+import HomeBack from '../../assets/HomeBack.jpg';
+import HomeInfoWrapperBack from '../../assets/HomeInfoWrapperBack.jpg';
 
 export const HomeContainer = styled.div`
   width: 100%;

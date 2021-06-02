@@ -2,8 +2,8 @@ import React from 'react';
 import ServiceWrapper from '../../components/Organisms/ServiceWrapper/ServiceWrapper';
 import Line from '../../components/Atoms/Line/Line';
 import ManufacturerWrapper from '../../components/Organisms/ManufacturerWrapper/ManufacturerWrapper';
-import ServicePhoto from '../../assets/ServicePhoto.webp';
-import ServicePhoto2 from '../../assets/ServicePhoto2.webp';
+import ServicePhoto from '../../assets/ServicePhoto.jpg';
+import ServicePhoto2 from '../../assets/ServicePhoto2.jpg';
 import ButtonInfoWrapper from '../../components/Molecules/ButtonInfoWrapper/ButtonInfoWrapper';
 import { Container, OceanContainer } from './ServicesStyled';
 

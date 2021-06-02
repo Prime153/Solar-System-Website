@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from '../../../assets/Logo.webp';
+import Logo from '../../../assets/Logo.png';
 import { HashLink } from 'react-router-hash-link';
 import HamburgerWrapper from '../../Organisms/HamburgerWrapper/HamburgerWrapper';
 import AppContext from '../../../context';
