@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import CalcBack from '../../assets/CalcBack.svg';
+import CalcBack from '../../assets/CalcBack.webp';
 
 export const Container = styled.div`
   height: 100vh;
