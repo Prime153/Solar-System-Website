@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Solar-System-Website/static/js/main.59f2ac35.chunk.js",
-    "main.js.map": "/Solar-System-Website/static/js/main.59f2ac35.chunk.js.map",
+    "main.js": "/Solar-System-Website/static/js/main.832cd026.chunk.js",
+    "main.js.map": "/Solar-System-Website/static/js/main.832cd026.chunk.js.map",
     "runtime-main.js": "/Solar-System-Website/static/js/runtime-main.8992ec38.js",
     "runtime-main.js.map": "/Solar-System-Website/static/js/runtime-main.8992ec38.js.map",
     "static/css/2.ec02d681.chunk.css": "/Solar-System-Website/static/css/2.ec02d681.chunk.css",
@@ -10,22 +10,21 @@
     "index.html": "/Solar-System-Website/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/Solar-System-Website/static/css/2.ec02d681.chunk.css.map",
     "static/js/2.44fe8cee.chunk.js.LICENSE.txt": "/Solar-System-Website/static/js/2.44fe8cee.chunk.js.LICENSE.txt",
-    "static/media/CalcBack.8edd0d6d.webp": "/Solar-System-Website/static/media/CalcBack.8edd0d6d.webp",
-    "static/media/CardPhoto.d137a35e.webp": "/Solar-System-Website/static/media/CardPhoto.d137a35e.webp",
-    "static/media/CardPhoto2.e6ba5cb6.webp": "/Solar-System-Website/static/media/CardPhoto2.e6ba5cb6.webp",
-    "static/media/CardPhoto3.e03a1f4a.webp": "/Solar-System-Website/static/media/CardPhoto3.e03a1f4a.webp",
-    "static/media/ContactBack.145ecee7.webp": "/Solar-System-Website/static/media/ContactBack.145ecee7.webp",
-    "static/media/HomeBack.6a7f4c1d.webp": "/Solar-System-Website/static/media/HomeBack.6a7f4c1d.webp",
-    "static/media/HomeInfoWrapperBack.82d6aad7.webp": "/Solar-System-Website/static/media/HomeInfoWrapperBack.82d6aad7.webp",
-    "static/media/Logo.b69e9478.webp": "/Solar-System-Website/static/media/Logo.b69e9478.webp",
-    "static/media/Ocean.8bc6f572.webp": "/Solar-System-Website/static/media/Ocean.8bc6f572.webp",
-    "static/media/ServicePhoto.4a05b5f0.webp": "/Solar-System-Website/static/media/ServicePhoto.4a05b5f0.webp",
-    "static/media/ServicePhoto2.b9e7651b.webp": "/Solar-System-Website/static/media/ServicePhoto2.b9e7651b.webp"
+    "static/media/CalcBack.4ea671fc.jpg": "/Solar-System-Website/static/media/CalcBack.4ea671fc.jpg",
+    "static/media/CardPhoto.67740fa3.jpg": "/Solar-System-Website/static/media/CardPhoto.67740fa3.jpg",
+    "static/media/CardPhoto2.26e5670e.jpg": "/Solar-System-Website/static/media/CardPhoto2.26e5670e.jpg",
+    "static/media/CardPhoto3.2ac7e38f.jpg": "/Solar-System-Website/static/media/CardPhoto3.2ac7e38f.jpg",
+    "static/media/ContactBack.00ec27a6.jpg": "/Solar-System-Website/static/media/ContactBack.00ec27a6.jpg",
+    "static/media/HomeBack.044ebb8c.jpg": "/Solar-System-Website/static/media/HomeBack.044ebb8c.jpg",
+    "static/media/HomeInfoWrapperBack.a621a7a8.jpg": "/Solar-System-Website/static/media/HomeInfoWrapperBack.a621a7a8.jpg",
+    "static/media/Ocean.37265be2.jpg": "/Solar-System-Website/static/media/Ocean.37265be2.jpg",
+    "static/media/ServicePhoto.bb086500.jpg": "/Solar-System-Website/static/media/ServicePhoto.bb086500.jpg",
+    "static/media/ServicePhoto2.4a11b505.jpg": "/Solar-System-Website/static/media/ServicePhoto2.4a11b505.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8992ec38.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.44fe8cee.chunk.js",
-    "static/js/main.59f2ac35.chunk.js"
+    "static/js/main.832cd026.chunk.js"
   ]
 }
